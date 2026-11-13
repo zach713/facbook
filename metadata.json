@@ -1,0 +1,6 @@
+{
+  "name": "Reward Vault — Username Claim",
+  "description": "Enter your player username and collect your game rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
